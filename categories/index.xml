@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on BLOG</title>
-    <link>http://lzymmm123/lzymmm123.github.io/categories/</link>
+    <link>https://lzymmm123.github.io/categories/</link>
     <description>Recent content in Categories on BLOG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 19 Jan 2021 16:33:16 +0800</lastBuildDate>
     
-	<atom:link href="http://lzymmm123/lzymmm123.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lzymmm123.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>CPP</title>
-      <link>http://lzymmm123/lzymmm123.github.io/categories/cpp/</link>
+      <link>https://lzymmm123.github.io/categories/cpp/</link>
       <pubDate>Tue, 19 Jan 2021 16:33:16 +0800</pubDate>
       
-      <guid>http://lzymmm123/lzymmm123.github.io/categories/cpp/</guid>
+      <guid>https://lzymmm123.github.io/categories/cpp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>test1</title>
-      <link>http://lzymmm123/lzymmm123.github.io/categories/test1/</link>
+      <link>https://lzymmm123.github.io/categories/test1/</link>
       <pubDate>Tue, 19 Jan 2021 15:13:13 +0800</pubDate>
       
-      <guid>http://lzymmm123/lzymmm123.github.io/categories/test1/</guid>
+      <guid>https://lzymmm123.github.io/categories/test1/</guid>
       <description></description>
     </item>
     
