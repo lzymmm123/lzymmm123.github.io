@@ -23,7 +23,7 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Tue, 19 Jan 2021 16:45:55 &#43;0800</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jan 2021 16:50:24 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://lzymmm123.github.io/rss.xml" />
         
@@ -65,6 +65,60 @@
                     
                         
                     
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>测试博客</title>
+                <link>https://lzymmm123.github.io/posts/%E6%B5%8B%E8%AF%95/</link>
+                <guid isPermaLink="true">https://lzymmm123.github.io/posts/%E6%B5%8B%E8%AF%95/</guid>
+                <pubDate>Tue, 19 Jan 2021 15:13:13 &#43;0800</pubDate>
+                
+                    <author>null (lzy)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;h3 id=&#34;hugo-hello&#34;&gt;hugo hello&lt;/h3&gt;
+&lt;h4 id=&#34;asjdk&#34;&gt;asjdk&lt;/h4&gt;
+&lt;h3 id=&#34;cehsi&#34;&gt;cehsi&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;lala&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;$$
+\alpha
+$$&lt;/p&gt;
+&lt;p&gt;cjskaj&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;lala&lt;/li&gt;
+&lt;li&gt;lala&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://lzymmm123.github.io/categories/test1/">test1</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://lzymmm123.github.io/tags/ttt1/">ttt1</category>
+                                
+                            
                         
                     
                 
