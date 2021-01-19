@@ -9,7 +9,7 @@
     <managingEditor>null (lzy)</managingEditor>
     <webMaster>null (lzy)</webMaster>
     <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
-    <lastBuildDate>Tue, 19 Jan 2021 15:13:13 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 19 Jan 2021 16:33:16 +0800</lastBuildDate>
     
 	<atom:link href="https://lzymmm123.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -17,9 +17,18 @@
     <item>
       <title>ttt1</title>
       <link>https://lzymmm123.github.io/tags/ttt1/</link>
-      <pubDate>Tue, 19 Jan 2021 15:13:13 +0800</pubDate>
+      <pubDate>Tue, 19 Jan 2021 16:33:16 +0800</pubDate>
       <author>null (lzy)</author>
       <guid>https://lzymmm123.github.io/tags/ttt1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ttt2</title>
+      <link>https://lzymmm123.github.io/tags/ttt2/</link>
+      <pubDate>Tue, 19 Jan 2021 16:33:16 +0800</pubDate>
+      <author>null (lzy)</author>
+      <guid>https://lzymmm123.github.io/tags/ttt2/</guid>
       <description></description>
     </item>
     
