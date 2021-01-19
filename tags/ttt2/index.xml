@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ttt2 on BLOG</title>
+    <link>http://localhost:1313/tags/ttt2/</link>
+    <description>Recent content in ttt2 on BLOG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 19 Jan 2021 16:33:16 +0800</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/ttt2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Second</title>
+      <link>http://localhost:1313/post/second/</link>
+      <pubDate>Tue, 19 Jan 2021 16:33:16 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/second/</guid>
+      <description>cpp 下面是个简单的示例程序 #include&amp;lt;iostream&amp;gt;int main(){ reutrn 0; }</description>
+    </item>
+    
+  </channel>
+</rss>
