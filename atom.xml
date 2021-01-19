@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">BLOG</title>
     <subtitle type="html">MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</subtitle>
-    <updated>2021-01-19T16:54:03&#43;08:00</updated>
+    <updated>2021-01-19T16:55:19&#43;08:00</updated>
     <id>https://lzymmm123.github.io/</id>
     <link rel="alternate" type="text/html" href="https://lzymmm123.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://lzymmm123.github.io/atom.xml" />
@@ -20,7 +20,7 @@
             <title type="text">Second</title>
             <link rel="alternate" type="text/html" href="https://lzymmm123.github.io/posts/second/" />
             <id>https://lzymmm123.github.io/posts/second/</id>
-            <updated>2021-01-19T16:34:54&#43;08:00</updated>
+            <updated>2021-01-19T16:55:07&#43;08:00</updated>
             <published>2021-01-19T16:33:16&#43;08:00</published>
             <author>
                     <name>lzy</name>
@@ -54,6 +54,14 @@
             
             
                 
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://lzymmm123.github.io/categories/cpp/" term="CPP" label="CPP" />
+                            
+                        
                     
                 
                     
